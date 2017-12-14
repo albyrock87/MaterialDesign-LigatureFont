@@ -1,0 +1,16 @@
+{
+  "name": "mdi-ligfont",
+  "version": "0.1.0",
+  "description": "Material Design Icons - Ligature Font builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Nicholls",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-webfont": "pauln/grunt-webfont#ligatures-only",
+    "mdi-svg": "^2.1.19"
+  }
+}
